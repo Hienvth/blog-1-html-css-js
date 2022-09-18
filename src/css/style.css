@@ -7,10 +7,11 @@
     align-items: center;
     margin: 0 auto;
     background-color: #252525;
-    color: #fff;
     padding: 20px 30px;
+ 
 }
-.web-name h1 {
+.web-name h1 a {
+    color: #fff;
     font-size: 3rem;
     /* line-height: 1.8; */
 }
@@ -18,6 +19,7 @@
     font-size: 2.4rem;
     font-weight: 700;
     cursor: pointer;
+    color: #fff;
     /* transform: scale(1.2); */
 }
 
